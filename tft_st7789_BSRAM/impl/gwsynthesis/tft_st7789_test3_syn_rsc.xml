@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" T_Register="237(0)" T_Alu="154(0)" T_Lut="1339(0)" T_Bsram="46(0)">
+    <SubModule name="main1" Register="64" Alu="44" Lut="9" T_Register="237(64)" T_Alu="154(44)" T_Lut="1339(9)" T_Bsram="46(0)">
+        <SubModule name="u_video_bram" Register="30" Lut="1178" Bsram="46" T_Register="30(30)" T_Lut="1178(1178)" T_Bsram="46(46)"/>
+        <SubModule name="d1" Register="121" Alu="103" Lut="127" T_Register="143(121)" T_Alu="110(103)" T_Lut="152(127)">
+            <SubModule name="spi0" Register="22" Alu="7" Lut="25" T_Register="22(22)" T_Alu="7(7)" T_Lut="25(25)"/>
+        </SubModule>
+    </SubModule>
+</Module>

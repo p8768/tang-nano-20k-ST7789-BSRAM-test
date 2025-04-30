@@ -1,0 +1,13 @@
+-d C:\tm1638-verilog-master\TFT-ST7789\tft_st7789_test3\impl\gwsynthesis\tft_st7789_test3.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst C:\tm1638-verilog-master\TFT-ST7789\tft_st7789_test3\src\tft_st7789_test3.cst
+-cfg C:\tm1638-verilog-master\TFT-ST7789\tft_st7789_test3\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
